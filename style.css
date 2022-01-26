@@ -31,6 +31,12 @@ img {
 .grid {
   display: grid;
 }
+.info {
+  place-self: start;
+  display: grid;
+  place-items: start;
+  gap: 20px;
+}
 .comprar {
   background: #a8f;
   color: #103;
